@@ -1,5 +1,12 @@
-
-### Hello! I'm Pedro Lucas 👋
+<h1 align="center">
+  Hi there, i'm Pedro Lucas
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+	     width="30px"> 
+  <br />
+	Welcome to my profile!
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=pedrollopesb.pedrollopesb" 
+	     alt="visitors">
+</h1>
 
 <h3 align="left">For a better experience, select the display language for this profile below (if necessary):</h3>
   <div>
