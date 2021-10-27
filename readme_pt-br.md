@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Pedro Lucas 👋
 
-<h3 align="left">Para uma melhor experiência, selecione abaixo o idioma de visualização deste perfil:</h3>
+<h3 align="left">Para uma melhor experiência, selecione abaixo o idioma de visualização deste perfil (se necessário):</h3>
   <div>
     <table align="left">
       <tr><td><a href="README.md">Inglês / English</a></td></tr>
