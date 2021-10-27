@@ -30,10 +30,10 @@
 - 🔭 I'm currently a full-stack web development student, very interested by the front-end technologies
 - 🌱 I’m learning and going deeper first into HTML, CSS and Javascript
 - 📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision
-- 💬 Ask me about HTML, CSS
+- 💬 Ask me about HTML and CSS
 - 📫 How to reach me: pedrolopessb@gmail.com
 - ⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies
-- ❤️ Interests: 🏓 play ping pong, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games, travel ✈️.
+- ❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel
 
 <br />
 
