@@ -1,7 +1,7 @@
 
 ### Hello! I'm Pedro Lucas 👋
 
-<h3 align="left">For a better experience, select the display language for this profile below:</h3>
+<h3 align="left">For a better experience, select the display language for this profile below (if necessary):</h3>
   <div>
     <table align="left">
       <tr><td><a href="README.md">English / Inglês</a></td></tr>
