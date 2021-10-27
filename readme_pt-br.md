@@ -28,7 +28,7 @@
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
 
 - 🔭 Atualmente sou um estudante de desenvolvimento web full-stack, muito interessado nas tecnologias front-end
-- 🌱 Atualmente, estou aprendendo e me aprofundando primeiro em HTML, CSS e Javascript
+- 🌱 Estou aprendendo e me aprofundando primeiro em HTML, CSS e Javascript
 - 📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão
 - 💬 Pergunte-me sobre HTML e CSS
 - 📫 Como entrar em contato comigo: pedrolopessb@gmail.com
@@ -41,14 +41,39 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollopesb&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">Linguagens e ferramentas atuais:</h3>
   <div>
-    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>
 
 #
+	
+<h3 align="left">Próximos passos:</h3>
+  <div>
+    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="React.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Bootstrap-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Angular.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Vue.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Java-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Elixir-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg"> </a>	  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg"> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="React-native-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg"> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Flutter-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="MySQL-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="MongoDB-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"> </a>
+<br /><br />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Oracle-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"> </a>   
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Figma-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Git-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </a>  	  
+  </div>
+	
+#		
 
 <h3 align="left">Redes Sociais:</h3>
   <div>
