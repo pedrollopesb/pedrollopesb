@@ -31,7 +31,7 @@
 - 🌱 Estou aprendendo e me aprofundando primeiro em HTML, CSS e Javascript
 - 📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão
 - 💬 Pergunte-me sobre HTML e CSS
-- 📫 Como entrar em contato comigo: pedrolopessb@gmail.com
+- 📫 Como entrar em contato comigo: pedrollopesb@gmail.com
 - ⚡ Curiosidade: Eu quero ser 🏹 arqueiro e 🎷 saxofinista, como meus próximos hobbies
 - ❤️ Interesses: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 📚 ler livros, 🎮 jogar video-games e ✈️ viajar 
 
@@ -93,7 +93,7 @@
      
 <h3 align="left">Conecte-se comigo:</h3>
   <div>
-     <a href = "mailto:pedrolopessb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:pedrollopesb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
