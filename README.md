@@ -28,7 +28,7 @@
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
 
 - 🔭 I'm currently a full-stack web development student, very interested by the front-end technologies
-- 🌱 I’m currently learning and going deeper first into HTML, CSS and Javascript
+- 🌱 I’m learning and going deeper first into HTML, CSS and Javascript
 - 📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision
 - 💬 Ask me about HTML, CSS
 - 📫 How to reach me: pedrolopessb@gmail.com
@@ -43,9 +43,9 @@
   
 <h3 align="left">Current languages and tools:</h3>
   <div>
-    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>
 
 #
