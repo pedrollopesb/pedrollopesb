@@ -31,7 +31,7 @@
 - 🌱 I’m learning and going deeper first into HTML, CSS and Javascript
 - 📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision
 - 💬 Ask me about HTML and CSS
-- 📫 How to reach me: pedrolopessb@gmail.com
+- 📫 How to reach me: pedrollopesb@gmail.com
 - ⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies
 - ❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel
 
@@ -93,7 +93,7 @@
    
 <h3 align="left">Connect with me:</h3>
   <div>
-     <a href = "mailto:pedrolopessb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "mailto:pedrollopesb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 
