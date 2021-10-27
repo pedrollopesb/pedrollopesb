@@ -41,14 +41,18 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollopesb&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+#	
+	
+<div>
+  <img align="center" width="1500px" height="300px" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
+</div>	
+	
 <h3 align="left">Linguagens e ferramentas atuais:</h3>
   <div>
     <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>
-
-#
 	
 <h3 align="left">Próximos passos:</h3>
   <div>
@@ -84,9 +88,7 @@
      <a href="https://facebook.com/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>   
      <a href="https://twitter.com/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
   </div>
-    
-#  
-  
+     
 <h3 align="left">Conecte-se comigo:</h3>
   <div>
      <a href = "mailto:pedrolopessb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
