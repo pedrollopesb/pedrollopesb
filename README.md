@@ -8,6 +8,10 @@
 	     alt="visitors">
 </h1>
 
+<div>
+  <img align="center" width="1500px" height="300px" src="https://i.pinimg.com/originals/f2/f3/2c/f2f32c11128c9780cfd91413755b0091.gif">
+</div>
+
 <h3 align="left">For a better experience, select the display language for this profile below (if necessary):</h3>
   <div>
     <table align="left">
