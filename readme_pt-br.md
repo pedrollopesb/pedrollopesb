@@ -21,7 +21,6 @@
 - 📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão
 - 💬 Pergunte-me sobre HTML e CSS
 - 📫 Como entrar em contato comigo: pedrolopessb@gmail.com
-- 😄 Pronomes: Dele/Seu
 - ⚡ Curiosidade: Eu quero ser 🏹 arqueiro e 🎷 saxofinista, como meus próximos hobbies
 - ❤️ Interesses: 🏓 jogar ping pong, 📺 assistir filmes, séries e animes, 🎶 ouvir música, 📚 ler livros, 🎮 jogar video-games, viajar ✈️
 
