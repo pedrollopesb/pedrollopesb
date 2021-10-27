@@ -64,9 +64,9 @@
     <a href="https://vuejs.org/" target="_blank"> <img align="center" alt="Vue.js-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> </a>  
     <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </a>  
     <a href="https://www.java.com/" target="_blank"> <img align="center" alt="Java-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> </a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="center" alt="C#-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> </a>
     <a href="https://elixir-lang.org/" target="_blank"> <img align="center" alt="Elixir-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original-wordmark.svg"> </a>	  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg"> </a> 
+    <a href="https://isocpp.org/" target="_blank"> <img align="center" alt="C++-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/c.svg"> </a> 
 <br /><br />
     <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js-icon" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg"> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="Typescript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
