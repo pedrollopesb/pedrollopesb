@@ -9,7 +9,8 @@
 - 💬 Ask me about HTML, CSS
 - 📫 How to reach me: pedrolopessb@gmail.com
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I want to be an archer and a saxophone player, like my next hobbies
+- ⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies
+- ❤️ Interests: 🏓 play ping pong, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games, travel ✈️.
 
 <div align="center">
   <a href="https://github.com/pedrollopesb">
