@@ -1,6 +1,19 @@
 
 ### Hello! I'm Pedro Lucas 👋
 
+<h3 align="left">For a better experience, select the display language for this profile below:</h3>
+  <div>
+    <table align="left">
+      <tr><td><a href="README.md">English / Inglês</a></td></tr>
+      <tr><td><a href="readme_pt-br.md">Portuguese / Português</a></td></tr>
+    </table> 
+  </div>
+<br />
+<br /> 
+<br /> 
+  
+#
+
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
 
 - 🔭 I'm currently a full-stack web development student, very interested by the front-end technologies
@@ -17,19 +30,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrollopesb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollopesb&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
-<h3 align="left">Select below my profile display language:</h3>
-  <div>
-    <table align="left">
-      <tr><td><a href="README.md">English / Inglês</a></td></tr>
-      <tr><td><a href="readme_pt-br.md">Portuguese / Português</a></td></tr>
-    </table> 
-  </div>
-<br />
-<br /> 
-<br /> 
-  
-#
   
 <h3 align="left">Languages and tools:</h3>
   <div>
