@@ -40,7 +40,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrollopesb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrollopesb&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
+
+#
+	
+<div>
+  <img align="center" width="1500px" height="300px" src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
+</div>	
+	
 <h3 align="left">Current languages and tools:</h3>
   <div>
     <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
@@ -72,9 +78,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Figma-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Git-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"> </a>  	  
   </div>
-	
-#	
 
+#
+		
 <h3 align="left">Social medias:</h3>
   <div>
    <!--
