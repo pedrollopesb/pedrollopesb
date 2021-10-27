@@ -19,9 +19,9 @@
 
 <h3 align="left">Languages and tools:</h3>
   <div>
-    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <a href="https://www.w3.org/html/" target="_blank"> <img align="center" alt="Pedro-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img align="center" alt="Pedro-CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Pedro-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </a>
   </div>
 
 #
@@ -35,7 +35,7 @@
      <a href="https://facebook.com/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>   
      <a href="https://twitter.com/pedrollopesb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
   </div>
-  
+    
 #  
   
 <h3 align="left">Connect with me:</h3>
