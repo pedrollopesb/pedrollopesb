@@ -35,6 +35,8 @@
 - ⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies
 - ❤️ Interests: 🏓 play ping pong, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games, travel ✈️.
 
+<br />
+
 <div align="center">
   <a href="https://github.com/pedrollopesb">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrollopesb&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
