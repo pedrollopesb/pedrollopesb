@@ -28,9 +28,9 @@
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
 
 - 🔭 Atualmente sou um estudante de desenvolvimento web full-stack, apaixonado pelas tecnologias front-end e encantado com o poder da programação
-- 🌱 Estou aprendendo e me aprofundando primeiro em HTML, CSS e Javascript
+- 🌱 Estou aprendendo e me aprofundando primeiro em HTML5, CSS3 e JavaScript
 - 📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão
-- 💬 Pergunte-me sobre HTML e CSS
+- 💬 Pergunte-me sobre HTML5 e CSS3
 - 📫 Como entrar em contato comigo: pedrollopesb@gmail.com
 - ⚡ Curiosidade: Eu quero ser 🏹 arqueiro e 🎷 saxofinista, como meus próximos hobbies
 - ❤️ Interesses: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 📚 ler livros, 🎮 jogar video-games e ✈️ viajar 
