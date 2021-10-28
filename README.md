@@ -28,9 +28,9 @@
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">
 
 - 🔭 I'm currently a full-stack web development student, passionate about front-end technologies and delighted with the power of programming
-- 🌱 I’m learning and going deeper first into HTML, CSS and Javascript
+- 🌱 I’m learning and going deeper first into HTML5, CSS3 and JavaScript
 - 📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision
-- 💬 Ask me about HTML and CSS
+- 💬 Ask me about HTML5 and CSS3
 - 📫 How to reach me: pedrollopesb@gmail.com
 - ⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies
 - ❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel
