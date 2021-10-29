@@ -27,12 +27,12 @@
 <div>
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">	
     <ul>
-      <li>🔭 Atualmente sou um estudante de desenvolvimento web full-stack, apaixonado pelas tecnologias front-end e encantado com o poder da programação;</li>
-      <li>🌱 Estou aprendendo e me aprofundando primeiro em HTML5, CSS3 e JavaScript;</li>
-      <li>📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão;
-      <li>💬 Pergunte-me sobre HTML5 e CSS3;</li>
-      <li>📩 Como entrar em contato comigo: pedrollopesb@gmail.com ou clique aqui <a href = "mailto:pedrollopesb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrollopesb@gmail.com&longCache=true" target="_blank"></a>;</li>
-      <li>⚡ Curiosidade: Eu quero ser 🏹 arqueiro e 🎷 saxofinista, como meus próximos hobbies;</li>
+      <li>🔭 Atualmente sou um estudante de desenvolvimento web full-stack, apaixonado pelas tecnologias front-end e encantado com o poder da programação.</li>
+      <li>🌱 Estou aprendendo e me aprofundando primeiro em HTML5, CSS3 e JavaScript.</li>
+      <li>📚 Sou formado em engenharia civil, mas quero me tornar um programador de alto nível, então estou em transição de carreira e muito feliz e entusiasmado com essa decisão.
+      <li>💬 Pergunte-me sobre HTML5 e CSS3.</li>
+      <li>📩 Como entrar em contato comigo: pedrollopesb@gmail.com ou clicando aqui <a href = "mailto:pedrollopesb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrollopesb@gmail.com&longCache=true" target="_blank"></a></li>
+      <li>⚡ Curiosidade: Eu quero ser 🏹 arqueiro e 🎷 saxofinista, como meus próximos hobbies.</li>
       <li>❤️ Interesses: 💻 assistir filmes, séries e animes, 🎶 ouvir música, 📚 ler livros, 🎮 jogar video-games e ✈️ viajar.	  
     </ul>
 </div>	
