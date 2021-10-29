@@ -100,3 +100,7 @@
   </div>
 
   ![Snake animation](https://github.com/pedrollopesb/pedrollopesb/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">
+  Thank you and come back soon!
+    <img src=".github/cheers-leonardo-dicaprio.gif"></h1> 	  
