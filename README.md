@@ -27,13 +27,13 @@
 <div>
   <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761151479f6e86dc4d7cd80eb9984a0ce1fdd500dc52&rid=giphy.gif&ct=g">	
     <ul>
-      <li>🔭 I'm currently a full-stack web development student, passionate about front-end technologies and delighted with the power of programming</li>
-      <li>🌱 I’m learning and going deeper first into HTML5, CSS3 and JavaScript</li>
-      <li>📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision
-      <li>💬 Ask me about HTML5 and CSS3</li>
+      <li>🔭 I'm currently a full-stack web development student, passionate about front-end technologies and delighted with the power of programming.</li>
+      <li>🌱 I’m learning and going deeper first into HTML5, CSS3 and JavaScript.</li>
+      <li>📚 I'm graduated in civil engineering, but i want to become a high level programmer, so i'm on career transition and very happy and enthusiastic about this decision.
+      <li>💬 Ask me about HTML5 and CSS3.</li>
       <li>📩 How to reach me: pedrollopesb@gmail.com or click here <a href = "mailto:pedrollopesb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrollopesb@gmail.com&longCache=true" target="_blank"></a></li>
-      <li>⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies</li>
-      <li>❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel	  
+      <li>⚡ Fun fact: I want to be an 🏹 archer and a 🎷 saxophone player, like my next hobbies.</li>
+      <li>❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel.	  
     </ul>
 </div>	
 
