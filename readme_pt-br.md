@@ -51,8 +51,8 @@
 	
 <h3 align="left">Linguagens e ferramentas atuais:</h3>
   <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript-icon" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   </div>
 	
